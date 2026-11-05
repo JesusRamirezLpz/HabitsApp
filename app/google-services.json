@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201778225156",
+    "project_id": "dailyhabits-b9183",
+    "storage_bucket": "dailyhabits-b9183.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201778225156:android:135d172584dc75c6091551",
+        "android_client_info": {
+          "package_name": "com.example.habitsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlVcgSZO0FX5dA7lZ9MJg-dMVXIVDVg7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
